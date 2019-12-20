@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Browse_Rick_and_Marty_POC/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Browse_Rick_and_Marty_POC/static/js/main.b580c0db.chunk.js",
+    "main.js.map": "/Browse_Rick_and_Marty_POC/static/js/main.b580c0db.chunk.js.map",
+    "runtime-main.js": "/Browse_Rick_and_Marty_POC/static/js/runtime-main.9db32de5.js",
+    "runtime-main.js.map": "/Browse_Rick_and_Marty_POC/static/js/runtime-main.9db32de5.js.map",
+    "static/js/2.94842ef2.chunk.js": "/Browse_Rick_and_Marty_POC/static/js/2.94842ef2.chunk.js",
+    "static/js/2.94842ef2.chunk.js.map": "/Browse_Rick_and_Marty_POC/static/js/2.94842ef2.chunk.js.map",
+    "index.html": "/Browse_Rick_and_Marty_POC/index.html",
+    "precache-manifest.e25c522c94727bd3544e2292e14b6cac.js": "/Browse_Rick_and_Marty_POC/precache-manifest.e25c522c94727bd3544e2292e14b6cac.js",
+    "service-worker.js": "/Browse_Rick_and_Marty_POC/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/Browse_Rick_and_Marty_POC/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.94842ef2.chunk.js.LICENSE": "/Browse_Rick_and_Marty_POC/static/js/2.94842ef2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db32de5.js",
+    "static/js/2.94842ef2.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.b580c0db.chunk.js"
+  ]
+}
