@@ -1,0 +1,31 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "jest": true
+    },
+    "extends": "airbnb",
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "no-console": 2,
+        "no-empty": 0,
+        "no-irregular-whitespace": 0,
+        "react/jsx-filename-extension": 1,
+        "import/prefer-default-export": 1,
+        "arrow-parens": 0,
+        "eol-last": 0
+    }
+}
